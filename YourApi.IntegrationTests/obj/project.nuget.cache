@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "i/2HKuDI/is=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\RC_Student_Lab\\Desktop\\GiftOfTheGivers Part 3\\YourApi.IntegrationTests\\YourApi.IntegrationTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RC_Student_Lab\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\8.0.0\\microsoft.aspnetcore.mvc.testing.8.0.0.nupkg.sha512",
+    "C:\\Users\\RC_Student_Lab\\.nuget\\packages\\mstest.testadapter\\3.0.2\\mstest.testadapter.3.0.2.nupkg.sha512",
+    "C:\\Users\\RC_Student_Lab\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\RC_Student_Lab\\Desktop\\GiftOfTheGivers Part 3\\YourApi\\YourApi.csproj'. Check that the project reference is valid and that the project file exists.",
+      "projectPath": "C:\\Users\\RC_Student_Lab\\Desktop\\GiftOfTheGivers Part 3\\YourApi.IntegrationTests\\YourApi.IntegrationTests.csproj",
+      "filePath": "C:\\Users\\RC_Student_Lab\\Desktop\\GiftOfTheGivers Part 3\\YourApi.IntegrationTests\\YourApi.IntegrationTests.csproj",
+      "libraryId": "C:\\Users\\RC_Student_Lab\\Desktop\\GiftOfTheGivers Part 3\\YourApi\\YourApi.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APPR_POE", "APPR_POE\APPR_POE.csproj", "{5FA6C8E6-ECDC-491C-9960-76484EF713EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourApi.Tests", "YourApi.Tests\YourApi.Tests.csproj", "{D2B4C748-6989-4701-9C31-6B62C4ECC0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourApi.IntegrationTests", "YourApi.IntegrationTests\YourApi.IntegrationTests.csproj", "{8D3A5317-68F5-42FF-888B-3C5F7E6525A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA6C8E6-ECDC-491C-9960-76484EF713EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA6C8E6-ECDC-491C-9960-76484EF713EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA6C8E6-ECDC-491C-9960-76484EF713EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA6C8E6-ECDC-491C-9960-76484EF713EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B4C748-6989-4701-9C31-6B62C4ECC0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B4C748-6989-4701-9C31-6B62C4ECC0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B4C748-6989-4701-9C31-6B62C4ECC0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B4C748-6989-4701-9C31-6B62C4ECC0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3A5317-68F5-42FF-888B-3C5F7E6525A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3A5317-68F5-42FF-888B-3C5F7E6525A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3A5317-68F5-42FF-888B-3C5F7E6525A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3A5317-68F5-42FF-888B-3C5F7E6525A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59823765-9AE3-47C3-896A-1019210BFCB2}
+	EndGlobalSection
+EndGlobal
